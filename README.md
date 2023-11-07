@@ -5,6 +5,6 @@ Exercícios para aprimoramento dos conhecimentos em front-end.
 
 
 ## Exe01 - Incrementa número.
-<p>Possui uma div que, ao ser clicada, irá incrementar o número que está situado no meio da div</p>
-
+  <img src="Imagens e gifs dos exercícios/Exe01.gif" width="900">
+  
 **[⬆ Inicio](#ExerciciosEmJavaScript)**
