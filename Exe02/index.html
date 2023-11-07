@@ -7,7 +7,30 @@
     <title>Exercício criar div</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Short+Stack&display=swap" rel="stylesheet">
     <style>
+        body {
+            background-image: linear-gradient(45deg, #5086c1, #6a9eda, #84b6f4);
+            animation: color 35s infinite alternate;
+            background-size: 550% 250%;
+        }
+
+        @keyframes color {
+            0% {
+                background-position: 0% 50%;
+            }
+
+            50% {
+                background-position: 100% 50%;
+            }
+
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
         input {
             display: block;
             margin: 0 auto;
@@ -15,31 +38,31 @@
 
         #btnDiv {
             padding: 1%;
-            color: green;
+            color: rgb(0, 0, 0);
             font-weight: bold;
             font-family: arial;
             font-size: 12pt;
-            border: 2px solid darkslategray;
-            border-radius: 5%;
+            border: 2px solid #96c4c4;
+            background-color: #96c4c4;
+            border-radius: 15px;
             cursor: pointer;
-            background-color: white;
-            margin-bottom: 5%;
+            margin-bottom: 3%;
             margin-top: 5%;
-    
+            font-family: 'Short Stack', cursive;
+
         }
 
         #btnDiv:hover {
-           
-            background-color: rgb(215, 228, 192);
-            box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+            background-color: #c0f3f3;
+            border: 2px solid #c0f3f3;
         }
 
-
-
         #areaDiv {
-            background-color: aqua;
-            border: 2px solid black;
-            width: 20%;
+            background-color: #96c4c4;
+            border: 2px solid #96c4c4;
+            box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+            border-radius: 25px;
+            width: 25%;
             height: 50vh;
             overflow-y: auto;
             display: flex;
@@ -51,21 +74,35 @@
         }
 
         div {
-            background-color: rgb(177, 0, 201);
             height: 50px;
             width: 50px;
             margin: 10px;
+            border-radius: 10px;
+            background-color: #c7f7f7;
+            border: 2px solid #c7f7f7;
+        }
 
+        #text {
+            margin: 2% auto;
+            width: 750px;
+            font-weight: bold;
+            font-size: 18pt;
+            text-align: center;
+            font-family: 'Short Stack', cursive;
+            height: fit-content;
+            background: none;
+            border: none;
         }
     </style>
 </head>
 
 <body>
 
+    <div id="text">Criar uma div e um botão, que ao clicar, irá incrementar diversas divs dentro da div pai</div>
+
     <input id="btnDiv" type="button" value="Adicionar Quadrado">
 
     <div id="areaDiv"></div>
-
 
     <script src="script.js"></script>
 </body>
