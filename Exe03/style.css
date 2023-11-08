@@ -1,0 +1,62 @@
+body {
+    background-color: #e4fbfb;
+}
+
+#arearTexto{
+    background-color: #96c4c457;
+    width: 45%;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+    border-radius: 20px;
+}
+span{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 13pt;
+    font-weight: 600;
+}
+
+#area {
+    width: fit-content;
+    height: fit-content;
+    margin: 3% auto;
+}
+
+#areaPesquisa {
+    border-radius: 15px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    border: #96c4c4;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    height: 20px;
+    margin-bottom: 4%;
+    background-color: #ffffff;
+    color: #338b85;
+    font-weight: bold;
+    font-size: 15pt;
+    font-family: 'Cormorant Garamond', serif;
+    text-align:center ;
+}
+
+ul {
+    width: fit-content;
+    padding-left: 0px;
+    margin: auto;
+    text-align: center;
+
+}
+
+ol {
+    margin-top: 5%;
+    margin-bottom: 10%;
+    box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+    border-radius: 15px;
+    width: 150px;
+    padding-left: 0px;
+    background-color: #96c4c4;
+    color: black;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 15pt;
+    font-weight: 600;
+}
