@@ -4,7 +4,7 @@ body {
 
 #arearTexto{
     background-color: #96c4c457;
-    width: 45%;
+    width: 60%;
     margin: auto;
     text-align: center;
     padding: 5px;
@@ -12,7 +12,7 @@ body {
 }
 span{
     font-family: 'Cormorant Garamond', serif;
-    font-size: 13pt;
+    font-size: 20pt;
     font-weight: 600;
 }
 
