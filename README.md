@@ -3,7 +3,7 @@ Exercícios para aprimoramento dos conhecimentos em front-end.
 
 * [Exercício 1 - Incrementar número](#Exe01-Incrementar-número)
 * [Exercício 2 - Incrementar div](#Exe02-Incrementar-div)
-* [Exercício 3 - Pesquisa em tabela dinÂmica](#Exe03-Pesquisa-em-tabela-dinÂmica)
+* [Exercício 3 - Pesquisa em tabela dinâmica](#Exe03-Pesquisa-em-tabela-dinâmica)
 
 
 ## Exe01-Incrementar número.
@@ -17,7 +17,7 @@ Exercícios para aprimoramento dos conhecimentos em front-end.
   
 **[⬆ Inicio](#ExerciciosEmJavaScript)**
 
-## Exe03-Pesquisa em tabela dinÂmica.
+## Exe03-Pesquisa em tabela dinâmica.
   <img src="Imagens e gifs dos exercícios/exe03.gif" width="700">
   
 **[⬆ Inicio](#ExerciciosEmJavaScript)**
