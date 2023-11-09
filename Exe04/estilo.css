@@ -1,99 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
 
-        body {
-            background: linear-gradient(0deg, rgba(3, 231, 235, 0.586) 0%, rgba(45, 184, 253, 0.433) 100%);
-            background-size: 100% 340%
+#text{
+    font-family: 'PT Serif', serif;
+    font-weight: bold;
+}
 
-        }
+body {
+    background: linear-gradient(0deg, rgba(3, 231, 235, 0.586) 0%, rgba(45, 184, 253, 0.433) 100%);
+    background-size: 100% 340%;
+}
 
-        .calendar th,
-        td {
-            border: solid 1px rgb(0, 194, 229);
-            width: 40px;
-            height: 30px;
-        }
-        td:hover{
-            background-color: rgba(0, 157, 157, 0.451);
-        }
+.calendar th,
+td {
+    border: solid 1px rgb(0, 194, 229);
+    width: 40px;
+    height: 30px;
+}
 
-        .calendar {
-            text-align: center;
-        }
+td:hover {
+    background-color: rgba(0, 157, 157, 0.451);
+}
 
-        #area {
-            display: flex;
-            margin-top: 2%;
-            justify-content: center;
-        }
+th{
+    font-family: 'Agbalumo',sans-serif;
+}
 
-        #areaInput {
-            margin-left: 2%;
-            margin-top: 1%;
-            width: 30%;
-            
-        }
+.calendar {
+    text-align: center;
+}
 
-        .data {
-            padding: 1%;
-            margin-left: 1%;
-            font-size: 12pt;
-            opacity: .7;
-            border: none;
-            border-radius: 7%;
-            font-weight: bold;
-        }
+#area {
+    display: flex;
+    margin-top: 2%;
+    justify-content: center;
+}
 
-        label{
-            margin-left: 2%;
-        }
+#areaInput {
+    margin-left: 2%;
+    margin-top: 1%;
+    width: 30%;
+    font-family: 'PT Serif', serif;
+    font-weight: bold;
+}
 
-        #btn {
-            margin-top: 5%;
-            margin-left: 45%;
-            padding: 1%;
-            font-size: 12pt;
-            background-color: rgba(13, 47, 160, 0.249);
-            border: 1px solid rgba(13, 47, 160, 0.249);
-            border-radius: 5%;
-            transition: 1s;
-        }
+.data {
+    padding: 1%;
+    margin-left: 1%;
+    font-size: 12pt;
+    opacity: .7;
+    border: none;
+    border-radius: 7%;
+    font-weight: bold;
+}
 
-        #btn:hover{
-            background-color: rgb(9, 198, 255);
-            border: 1px solid rgb(9, 198, 255);
-        }
+label {
+    margin-left: 2%;
+}
 
-        #diferencaDias {
-            font-family: arial;
-            font-size: 20pt;
-            text-align: center;
-            font-weight: bold;
-            margin-top: 10%;
-            margin-left: 3%;
-            display: block;
-            animation: animate 
-            1.8s linear infinite;
-        }
+#btn {
+    margin-top: 5%;
+    margin-left: 45%;
+    padding: 2.5%;
+    font-size: 12pt;
+    font-weight: bold;
+    background-color: #96c4c4;
+    border: 1px solid #96c4c4;
+    border-radius: 5px;
+    transition: 1s;
+}
 
-        @keyframes animate {
-            0% {
-                opacity: 0.6;
-            }
-  
-            50% {
-                opacity: 1;
-            }
-  
-            100% {
-                opacity: 0.6;
-            }
-        }
+#btn:hover {
+    background-color: #85aeae;
+    border: 1px solid #85aeae;
+    font-weight: bold;
+}
 
-        table{
-           background-color: rgba(255, 255, 255, .5);
-           border: 2px solid rgb(255, 255, 255);
-        }
+#diferencaDias {
+    font-family: arial;
+    font-size: 20pt;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10%;
+    margin-left: 3%;
+    display: block;
+    animation: animate 1.8s linear infinite;
+}
 
-        thead{
-            background-color: rgba(0, 157, 157, 0.451);
-        }
-      
+@keyframes animate {
+    0% {
+        opacity: 0.6;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0.6;
+    }
+}
+
+table {
+    background-color: rgba(255, 255, 255, .5);
+    border: 2px solid rgb(255, 255, 255);
+}
+
+thead {
+    background-color: rgba(0, 157, 157, 0.451);
+}
