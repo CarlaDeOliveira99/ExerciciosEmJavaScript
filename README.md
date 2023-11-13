@@ -4,7 +4,7 @@ Exercícios para aprimoramento dos conhecimentos em front-end.
 * [Exercício 1 - Incrementar número](#Exe01-Incrementar-número)
 * [Exercício 2 - Incrementar div](#Exe02-Incrementar-div)
 * [Exercício 3 - Pesquisa em tabela dinâmica](#Exe03-Pesquisa-em-tabela-dinâmica)
-* [Exercício 4 - Calendário dinâmico](#Exe04-Calendário-dinâmico.)
+* [Exercício 4 - Calendário dinâmico](#Exe04-Calendário-dinâmico)
 
 
 ## Exe01-Incrementar número.
