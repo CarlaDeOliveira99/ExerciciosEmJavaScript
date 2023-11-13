@@ -1,7 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
 
-#text{
+#text {
+    margin: auto;
+    width: 75%;
+    margin-bottom: 5%;
+}
+
+p {
     font-family: 'PT Serif', serif;
     font-weight: bold;
 }
@@ -22,8 +28,8 @@ td:hover {
     background-color: rgba(0, 157, 157, 0.451);
 }
 
-th{
-    font-family: 'Agbalumo',sans-serif;
+th {
+    font-family: 'Agbalumo', sans-serif;
 }
 
 .calendar {
