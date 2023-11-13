@@ -8,22 +8,22 @@ Exercícios para aprimoramento dos conhecimentos em front-end.
 
 
 ## Exe01-Incrementar número.
-  <img src="Imagens e gifs dos exercícios/Exe01.gif" width="900">
+  <img src="Imagens e gifs dos exercícios/Exe01.gif" width="850">
   
 **[⬆ Inicio](#ExerciciosEmJavaScript)**
 
 
 ## Exe02-Incrementar div.
-  <img src="Imagens e gifs dos exercícios/Exe02.gif" width="900">
+  <img src="Imagens e gifs dos exercícios/Exe02.gif" width="850">
   
 **[⬆ Inicio](#ExerciciosEmJavaScript)**
 
 ## Exe03-Pesquisa em tabela dinâmica.
-  <img src="Imagens e gifs dos exercícios/exe03.gif" width="900">
+  <img src="Imagens e gifs dos exercícios/exe03.gif" width="850">
   
 **[⬆ Inicio](#ExerciciosEmJavaScript)**
 
 ## Exe04-Calendário dinâmico.
-  <img src="Imagens e gifs dos exercícios/exe04.gif" width="900">
+  <img src="Imagens e gifs dos exercícios/exe04.gif" width="850">
   
 **[⬆ Inicio](#ExerciciosEmJavaScript)**
