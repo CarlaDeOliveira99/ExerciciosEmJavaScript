@@ -1,27 +1,52 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="UTF-8">
     <title>Exercicio converter as cores</title>
     <style>
-        .azul{
+        body {
+            background-color: #ffe4e1;
+        }
+
+        .azul {
             color: blue;
+            margin-bottom: 3%;
         }
-        .vermelho{
+
+        .vermelho {
             color: red;
+            margin-bottom: 3%;
         }
+
+        div{
+         width: fit-content;
+         height: fit-content;
+         margin: auto;
+         font-size: 15pt;
+         font-family: Arial, Helvetica, sans-serif;
+        }
+
+      
+        
     </style>
 </head>
+
 <body>
-    <ul>
-        <li class="azul">Item</li>
-        <li class="vermelho">Item</li>
-        <li class="azul">Item</li>
-        <li class="vermelho">Item</li>
-        <li class="azul">Item</li>
-        <li class="vermelho">Item</li>
-    </ul>
+
+    <div>inverta as classes (itens com azul terão a classe vermelho e vermelho terão a classe azul).</div>
+    <div>
+        <ul>
+            <li class="azul">Item</li>
+            <li class="vermelho">Item</li>
+            <li class="azul">Item</li>
+            <li class="vermelho">Item</li>
+            <li class="azul">Item</li>
+            <li class="vermelho">Item</li>
+        </ul>
+    </div>
 
     <script src="script.js"></script>
 </body>
+
 </html>
