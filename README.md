@@ -5,6 +5,7 @@ Exercícios para aprimoramento dos conhecimentos em front-end.
 * [Exercício 2 - Incrementar div](#Exe02-Incrementar-div)
 * [Exercício 3 - Pesquisa em tabela dinâmica](#Exe03-Pesquisa-em-tabela-dinâmica)
 * [Exercício 4 - Calendário dinâmico](#Exe04-Calendário-dinâmico)
+* [Exercício 5 - inverta as classes](#Exe05-inverta-as-classes)
 
 
 ## Exe01-Incrementar número.
@@ -24,6 +25,11 @@ Exercícios para aprimoramento dos conhecimentos em front-end.
 **[⬆ Inicio](#ExerciciosEmJavaScript)**
 
 ## Exe04-Calendário dinâmico.
+  <img src="Imagens e gifs dos exercícios/exe04.gif" width="850">
+  
+**[⬆ Inicio](#ExerciciosEmJavaScript)**
+
+## Exe05-inverta as classes.
   <img src="Imagens e gifs dos exercícios/exe04.gif" width="850">
   
 **[⬆ Inicio](#ExerciciosEmJavaScript)**
