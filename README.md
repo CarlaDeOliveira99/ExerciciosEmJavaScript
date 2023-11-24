@@ -30,6 +30,18 @@ Exercícios para aprimoramento dos conhecimentos em front-end.
 **[⬆ Inicio](#ExerciciosEmJavaScript)**
 
 ## Exe05-inverta as classes.
-  <img src="Imagens e gifs dos exercícios/exe04.gif" width="850">
+
+```
+    <ul>
+            <li class="azul">Item</li>
+            <li class="vermelho">Item</li>
+            <li class="azul">Item</li>
+            <li class="vermelho">Item</li>
+            <li class="azul">Item</li>
+            <li class="vermelho">Item</li>
+        </ul>
+```
+<br>
+  <img src="Imagens e gifs dos exercícios/Exe05-inverta as classes.png" width="850">
   
 **[⬆ Inicio](#ExerciciosEmJavaScript)**
