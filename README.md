@@ -1,5 +1,5 @@
 # ExerciciosEmJavaScript
-Exercícios para aprimoramento dos conhecimentos em front-end
+Exercícios para aprimoramento dos conhecimentos em front-end.
 
 * [Exercício 1 - Incrementar número](#Exe01-Incrementar-número)
 * [Exercício 2 - Incrementar div](#Exe02-Incrementar-div)
