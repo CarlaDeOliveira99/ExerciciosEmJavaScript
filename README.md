@@ -1,11 +1,11 @@
 # ExerciciosEmJavaScript
 Exercícios para aprimoramento dos conhecimentos em front-end.
 
-* [Exercício 1 - Incrementar número](#Exe01-Incrementar-número)
-* [Exercício 2 - Incrementar div](#Exe02-Incrementar-div)
-* [Exercício 3 - Pesquisa em tabela dinâmica](#Exe03-Pesquisa-em-tabela-dinâmica)
-* [Exercício 4 - Calendário dinâmico](#Exe04-Calendário-dinâmico)
-* [Exercício 5 - Inverta as classes](#Exe05-Inverta-as-classes)
+* [Exercício 1 - Incrementar número.](#Exe01-Incrementar-número)
+* [Exercício 2 - Incrementar div.](#Exe02-Incrementar-div)
+* [Exercício 3 - Pesquisa em tabela dinâmica.](#Exe03-Pesquisa-em-tabela-dinâmica)
+* [Exercício 4 - Calendário dinâmico.](#Exe04-Calendário-dinâmico)
+* [Exercício 5 - Inverta as classes.](#Exe05-Inverta-as-classes)
 * [Exercício 6 - Div redonda movimentando horizontalmente.](#Exe06-Div-redonda-movimentando-horizontalmente)
 * [Exercício 7 - Exe07-Div redonda movimenta na horizontal e vertical.](#Exe07-Div-redonda-movimenta-na-horizontal-e-vertical.)
 
