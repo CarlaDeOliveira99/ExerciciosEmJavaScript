@@ -4,14 +4,14 @@
 var circulo = document.getElementById('circulo')
 var contadorhorizontal = 0
 var contadorVertical = 0
-var direita  = true
+var direita = true
 var cima = true
 
 
 
 window.onload = function () {
     setInterval(horizontal, 200)
-   // setInterval(vertical, 200)
+    setInterval(vertical, 200)
 
 }
 
@@ -19,7 +19,7 @@ window.onload = function () {
 
 function horizontal() {
 
-    if (contadorhorizontal >= 93) { 
+    if (contadorhorizontal >= 93) {
         direita = false
     }
 
@@ -28,18 +28,18 @@ function horizontal() {
     }
 
     circulo.style.left = contadorhorizontal + '%'
-    if (direita == true ) {
+    if (direita == true) {
         contadorhorizontal += 1
-    } else{
+    } else {
         contadorhorizontal -= 1
     }
-     
-   
+
+
 }
 
 function vertical() {
 
-    if (contadorVertical >= 87) { 
+    if (contadorVertical >= 87) {
         cima = false
     }
 
@@ -48,13 +48,13 @@ function vertical() {
     }
 
     circulo.style.top = contadorVertical + '%'
-    if (cima == true ) {
+    if (cima == true) {
         contadorVertical += 3
-    } else{
+    } else {
         contadorVertical -= 3
     }
-     
-   
+
+
 }
 
 
