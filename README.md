@@ -7,6 +7,7 @@ Exercícios para aprimoramento dos conhecimentos em front-end.
 * [Exercício 4 - Calendário dinâmico](#Exe04-Calendário-dinâmico)
 * [Exercício 5 - Inverta as classes](#Exe05-Inverta-as-classes)
 * [Exercício 6 - Div redonda movimentando horizontalmente.](#Exe06-Div-redonda-movimentando-horizontalmente)
+* [Exercício 7 - Exe07-Div redonda movimenta na horizontal e vertical.](#Exe07-Div-redonda-movimenta-na-horizontal-e-vertical.)
 
 
 ## Exe01-Incrementar número.
@@ -49,5 +50,11 @@ Exercícios para aprimoramento dos conhecimentos em front-end.
 
 ## Exe06-Div redonda movimentando horizontalmente.
   <img src="Imagens e gifs dos exercícios/exe06.gif" width="850">
+  
+**[⬆ Inicio](#ExerciciosEmJavaScript)**
+
+
+## Exe07-Div redonda movimenta na horizontal e vertical.
+  <img src="Imagens e gifs dos exercícios/exe07.gif" width="850">
   
 **[⬆ Inicio](#ExerciciosEmJavaScript)**
